@@ -1,0 +1,6 @@
+{
+    "name": "webr",
+    "image": "ghcr.io/r-wasm/webr:main", 
+    "postCreateCommand": "wget -O /tmp/quarto.deb https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.540/quarto-1.4.540-linux-amd64.deb && dpkg -i /tmp/quarto.deb"
+}
+  
