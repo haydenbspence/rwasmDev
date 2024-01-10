@@ -24,7 +24,7 @@ editor: source
 ## Background
 
 The purpose of this document is to explore how WebR can be embedded in a 
-Quarto Document for the purposes of teaching _R_. 
+Quarto Document for the purposes of science!
 
 - WebR Website: <https://docs.r-wasm.org/webr/latest/>
 - WebR GitHub: <https://github.com/r-wasm/webr/>
